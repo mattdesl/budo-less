@@ -39,8 +39,6 @@ When you make changes to `.less` files in your working directory, it will trigge
 
 ## Usage
 
-[![NPM](https://nodei.co/npm/budo-less.png)](https://www.npmjs.com/package/budo-less)
-
 The CLI behaves like [budo](https://github.com/mattdesl/budo), with the following extra options:
 
 ```sh
