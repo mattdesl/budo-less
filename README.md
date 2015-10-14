@@ -60,7 +60,7 @@ Examples:
 ```sh
 budo-less foo.js --less=foo/main.less | garnish
 budo-less foo.js --css=static/main.css --less=src/main.less
-budo-less foo.js --less=main.css --autoprefix="last 2 browsers"
+budo-less foo.js --less=main.css --autoprefix="last 2 versions"
 ```
 
 ## API Example
