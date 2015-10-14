@@ -10,7 +10,7 @@
     "url": "https://github.com/mattdesl"
   },
   "dependencies": {
-    "budo": "^5.0.0-beta3",
+    "budo": "^5.0.0",
     "concat-stream": "^1.5.0",
     "filed": "^0.1.0",
     "less": "^2.5.1",
